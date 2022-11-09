@@ -44,4 +44,4 @@ Dewan Tasneem, email addresses: tul38268@temple.edu, assigned TAs: ZhengKang Fan
 
 - First learn how to build/create a website online. Then decide on a langauge to use for coding the website (Either: javascript or pyhton). 
 - New skills will include:coding in javascript and maybe some coding language for HTML for the wbesite building. How to link animations and drawings with coding, along with how to implement that into the website and code will need to be research and learned. 
-- For now, I would foucus on researching the coding languages that might be used for this project, while Dewan can start on one of the two: the basics of website building or animations in coding. 
+- For now, I (Andy Dong) will foucus on researching the coding languages that might be used for this project, while Dewan can start on one of the two: the basics of website building or animations in coding. 
